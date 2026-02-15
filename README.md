@@ -1,4 +1,8 @@
-${\color{#FFFC00}test \space first \space hi}$
+${\color{#FFFC00}test \space first}$
 
-huh
-![Screenshot_2026-02-15-21-06-39-52_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/2ef7981b-cc94-4dc9-a649-b56142300c97)
+<img src="ttps://github.com/user-attachments/assets/2ef7981b-cc94-4dc9-a649-b56142300c97" alt="Hi :] placeholder">
+
+<p align="center">
+  ${\color{#FFFC00}test \space 2nd}$
+</p>
+centered text only works with element p align="center"
